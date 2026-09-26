@@ -10,6 +10,9 @@ h2 {
 body {
     background-color: lightgreen;
 }
+a {
+    padding: 50px;
+}
 /* class selector format*/
 .subheadings {
     font-style: italic;
