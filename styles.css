@@ -1,0 +1,20 @@
+/* comments are like this */
+h1 {
+color:green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: forestgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: lightgreen;
+}
+/* class selector format*/
+.subheadings {
+    font-style: italic;
+}
+/* id selector format*/
+#header{
+    background-color: mintcream;
+}
