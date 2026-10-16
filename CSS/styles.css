@@ -22,7 +22,7 @@ a {
 /* id selector format*/
 .header{
     background-color: mintcream;
-    border-radius: 30%;
+    border-radius: 3%;
     display: flex;
     align-items: center;
 }
