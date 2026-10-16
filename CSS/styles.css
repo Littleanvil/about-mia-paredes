@@ -15,11 +15,11 @@ a {
     display: block;
     width: 200px;
 }
-/* class selector format*/
-.subheadings {
+/* id selector format*/
+#subheadings {
     font-style: italic;
 }
-/* id selector format*/
+/* class selector format*/
 .header{
     background-color: mintcream;
     border-radius: 3%;
