@@ -18,6 +18,7 @@ img {
 /* class selector format*/
 .subheadings {
     font-style: italic;
+    padding: 50px;
 }
 /* id selector format*/
 #headingly {
