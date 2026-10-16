@@ -20,7 +20,7 @@ a {
     font-style: italic;
 }
 /* class selector format*/
-.header{
+header{
     background-color: mintcream;
     border-radius: 3%;
     display: flex;
