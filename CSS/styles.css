@@ -19,8 +19,8 @@ a {
 .subheadings {
     font-style: italic;
 }
-/* class selector format*/
-header{
+/* id selector format*/
+#headingly {
     background-color: mintcream;
     border-radius: 3%;
     display: flex;
