@@ -12,7 +12,7 @@ body {
 }
 a {
     padding: 50px;
-    display: flex;
+    display: block;
     width: 200px;
 }
 /* class selector format*/
