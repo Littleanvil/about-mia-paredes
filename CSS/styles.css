@@ -13,13 +13,14 @@ body {
 a {
     padding: 50px;
     display: flex;
+    width: 200px;
 }
 /* class selector format*/
 .subheadings {
     font-style: italic;
 }
 /* id selector format*/
-#header{
+.header{
     background-color: mintcream;
     border-radius: 30%;
     display: flex;
