@@ -16,11 +16,11 @@ a {
     width: 200px;
 }
 /* class selector format*/
-#subheadings {
+.subheadings {
     font-style: italic;
 }
 /* class selector format*/
-class header{
+.header{
     background-color: mintcream;
     border-radius: 3%;
     display: flex;
