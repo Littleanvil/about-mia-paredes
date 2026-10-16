@@ -15,12 +15,12 @@ a {
     display: block;
     width: 200px;
 }
-/* id selector format*/
+/* class selector format*/
 #subheadings {
     font-style: italic;
 }
 /* class selector format*/
-.header{
+class header{
     background-color: mintcream;
     border-radius: 3%;
     display: flex;
