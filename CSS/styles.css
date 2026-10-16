@@ -1,6 +1,6 @@
 /* comments are like this */
 h1 {
-color:green;
+color:forestgreen;
     font-family: Arial, Helvetica, sans-serif;
 }
 h2 {
@@ -12,6 +12,7 @@ body {
 }
 a {
     padding: 50px;
+    display: flex;
 }
 /* class selector format*/
 .subheadings {
@@ -20,4 +21,5 @@ a {
 /* id selector format*/
 #header{
     background-color: mintcream;
+    border-radius: 30%;
 }
